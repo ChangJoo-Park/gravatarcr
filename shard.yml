@@ -1,0 +1,9 @@
+name: gravatarcr
+version: 0.1.0
+
+authors:
+  - ChangJoo Park <pcjpcj2@gmail.com>
+
+crystal: 0.24.1
+
+license: MIT
