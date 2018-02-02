@@ -18,8 +18,8 @@ dependencies:
 require "gravatarcr"
 include Gravatarcr
 
-gravatar_url("pcjpcj2@gmail", 128) # return my gavatar, size 128
-gravatar_url("pcjpcj2@gmail")      # return my gravatar image, size 64
+gravatar_url("pcjpcj2@gmail.com", 128) # return my gavatar, size 128
+gravatar_url("pcjpcj2@gmailcom")      # return my gravatar image, size 64
 gravatar_url(128)                  # return default gravatar image, size 128
 gravatar_url()                     # return default gravatar image, size 64
 ```
