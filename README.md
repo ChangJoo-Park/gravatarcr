@@ -1,6 +1,6 @@
-# gravatarcr
+# Gravatar crystal
 
-TODO: Write a description here
+Get gravatar url using crystal! 🔮
 
 ## Installation
 
@@ -9,7 +9,7 @@ Add this to your application's `shard.yml`:
 ```yaml
 dependencies:
   gravatarcr:
-    github: [your-github-name]/gravatarcr
+    github: changjoo-park/gravatarcr
 ```
 
 ## Usage
@@ -18,15 +18,15 @@ dependencies:
 require "gravatarcr"
 ```
 
-TODO: Write usage instructions here
+:construction: WIP
 
 ## Development
 
-TODO: Write development instructions here
+:construction: WIP
 
 ## Contributing
 
-1. Fork it ( https://github.com/[your-github-name]/gravatarcr/fork )
+1. Fork it ( https://github.com/changjoo-park/gravatarcr/fork )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
@@ -34,4 +34,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [[your-github-name]](https://github.com/[your-github-name]) ChangJoo Park - creator, maintainer
+- [changjoo-park](https://github.com/changjoo-park) ChangJoo Park - creator, maintainer
