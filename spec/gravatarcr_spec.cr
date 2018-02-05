@@ -26,5 +26,4 @@ describe Gravatarcr do
     url = gravatar_url(64)
     url.should eq("http://www.gravatar.com/avatar")
   end
-
 end
